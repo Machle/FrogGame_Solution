@@ -8,3 +8,19 @@ Outut: The states(nodes) in the tree after a correct move.
 input: 3
 initial stat will be: >>>_<<<
 output: 
+>>>_<<<
+>>_><<<
+>><>_<<
+>><><_<
+>><_<><
+>_<><><
+_><><><
+<>_><><
+<><>_><
+<><><>_
+<><><_>
+<><_<>>
+<_<><>>
+<<_><>>
+<<<>_>>
+<<<_>>>
