@@ -1,4 +1,5 @@
 # Solution to the frog problem
+This was a homework for my Artificial intelligence course @FMI Sofia
 The main class generates the solution of the puzzle;
 Input: number of frogs.
 The algorithm used is Depth-first search.
